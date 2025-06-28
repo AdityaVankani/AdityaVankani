@@ -13,11 +13,12 @@
 
 ---
 
-### 🐍 Watch my contributions eat the snake 🐍
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adityavankani/adityavankani/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </p>
+
 ---
 
 ### 🧠 About Me  
@@ -33,7 +34,7 @@
     - Automation tools  
     - Open-source AI utilities  
 
-- 🤖 Want to know more? Ask {A.D.I} here → [adi-terminal.vercel.app](https://adi-terminal.vercel.app)
+- 🤖 Want to know more? Ask my AI Terminal → [`{A.D.I}`](https://adi-terminal.vercel.app)
 
 - 📫 Reach me at: **adivankani@gmail.com**  
 - 📄 [View my resume](https://drive.google.com/file/d/1y79mRTIvXjZx2hp0IJo1zJ4rJZx4_n3A/view?usp=sharing)
@@ -60,15 +61,14 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityavankani&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=adityavankani&show_icons=true&locale=en" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityavankani&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityavankani&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavankani" alt="GitHub Streak" />
 </p>
 
