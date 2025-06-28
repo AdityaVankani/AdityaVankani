@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Aditya Vankani</h3>
-<h3 align="center">🚀 Passionate AI/ML Enthusiast & Full-Stack Developer</h3>
+<h3 align="center">🚀 Passionate AI/ML Enthusiast & Software Dev</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20in%20the%20Making...;Full-Stack%20Problem%20Solver!;Tech%20is%20My%20Playground&center=true&width=500&height=30&color=58A6FF&vCenter=true&pause=1000&size=24" />
@@ -43,7 +43,7 @@
 
 ### 🔗 Connect With Me  
 <p align="left">
-<a href="https://twitter.com/adi_vankani" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://x.com/adi_vankani" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/adityavankani" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.leetcode.com/adi_v_" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://codeforces.com/profile/adi_vankani" target="blank"><img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
