@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coder at work" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGEydXN6dGd0cmIycnRhOXQzemF3ajZ0dnU4YXp4MmJ0NmE2a3FsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="400" alt="Coder at work" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityavankani&label=Profile%20views&color=0e75b6&style=flat" alt="adityavankani" /> </p>
