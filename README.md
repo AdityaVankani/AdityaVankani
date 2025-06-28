@@ -13,6 +13,13 @@
 
 ---
 
+### 🐍 Watch my contributions eat the snake 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityavankani/adityavankani/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+</p>
+---
+
 ### 🧠 About Me  
   
 - 🌱 I’m currently learning:  
