@@ -36,8 +36,7 @@
 
 - 🤖 Want to know more? Ask my AI Terminal → [`{A.D.I}`](https://adi-terminal.vercel.app)
 
-- 📫 Reach me at: **adivankani@gmail.com**  
-- 📄 [View my resume](https://drive.google.com/file/d/1y79mRTIvXjZx2hp0IJo1zJ4rJZx4_n3A/view?usp=sharing)
+- 📫 Reach me at: **adivankani@gmail.com**
 
 ---
 
