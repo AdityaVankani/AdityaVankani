@@ -73,9 +73,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="Tech Animated" />
-</p>
+
 <p align="center">
   <b>"Talk is cheap. Show me the code."</b> – Linus Torvalds  
 </p>
