@@ -25,14 +25,14 @@
   
 - 🌱 I’m currently learning:  
   &nbsp;&nbsp;• **Containerisation, LangGraph, AutoGen, LLMOps**  
-  &nbsp;&nbsp;• **Flask backends for AI**, **MERN Stack**, **GCP deployment**  
+  &nbsp;&nbsp;• **Flask backends for AI**, **MERN Stack**, **Cloud deployment**  
 
 - 👯 I’m looking to collaborate on:  
   &nbsp;&nbsp;• **AI/ML projects**, especially:  
     - NLP / RAG pipelines  
     - Computer Vision  
     - Automation tools  
-    - Open-source AI utilities  
+    - Open-source utilities  
 
 - 🤖 Want to know more? Ask my AI Terminal → [`{A.D.I}`](https://adi-terminal.vercel.app)
 
