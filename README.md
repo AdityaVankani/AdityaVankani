@@ -47,7 +47,7 @@
 <a href="https://www.leetcode.com/adi_v_" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://codeforces.com/profile/adi_vankani" target="blank"><img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://www.codechef.com/users/adi_vankani" target="blank"><img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://discord.gg/adiii.v" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://discordapp.com/users/1052991220458201159" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
