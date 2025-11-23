@@ -23,11 +23,11 @@
 
 ### 🧠 About Me  
   
-- 🌱 I’m currently learning:  
-  &nbsp;&nbsp;• **Containerisation, LangGraph, AutoGen, LLMOps**  
-  &nbsp;&nbsp;• **Flask backends for AI**, **MERN Stack**, **Cloud deployment**  
+-  I’m currently working on:  
+  &nbsp;&nbsp;• **Containerisation, LangGraph/LangChain, AutoGen, LLMOps**  
+  &nbsp;&nbsp;• **Flask/FastAPI backends for AI**, **MERN Stack**, **Cloud deployment**  
 
-- 👯 I’m looking to collaborate on:  
+-  I’m looking to collaborate on:  
   &nbsp;&nbsp;• **AI/ML projects**, especially:  
     - NLP / RAG pipelines  
     - Computer Vision  
