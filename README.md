@@ -24,7 +24,7 @@
 ### 🧠 About Me  
   
 -  I’m currently working on:  
-  &nbsp;&nbsp;• **Containerisation, LangGraph/LangChain, AutoGen, LLMOps**  
+  &nbsp;&nbsp;• **Containerisation, LangGraph/LangChain**  
   &nbsp;&nbsp;• **Flask/FastAPI backends for AI**, **MERN Stack**, **Cloud deployment**  
 
 -  I’m looking to collaborate on:  
