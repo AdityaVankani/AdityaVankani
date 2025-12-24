@@ -34,6 +34,7 @@
     - Automation tools  
     - Open-source utilities  
 
+- My Portfolio  → [`{Adi's Portfolio}`](https://adi-portfolio-omega.vercel.app/)
 - 🤖 Want to know more? Ask my AI Terminal → [`{A.D.I}`](https://adi-terminal.vercel.app)
 
 - 📫 Reach me at: **adivankani@gmail.com**
