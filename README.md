@@ -76,5 +76,5 @@
 
 
 <p align="center">
-  <b>"Talk is cheap. Show me the code."</b> – Linus Torvalds  
+  <b>"Code is cheap. Show me the Talk."</b> – Current World Situation 
 </p>
