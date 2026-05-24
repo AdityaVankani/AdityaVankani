@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate AI/ML Enthusiast & Software Dev</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20in%20the%20Making...;Full-Stack%20Problem%20Solver!;Tech%20is%20My%20Playground&center=true&width=500&height=30&color=58A6FF&vCenter=true&pause=1000&size=24" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20;Full-Stack%20Problem%20Solver!;Tech%20is%20Interesting&center=true&width=500&height=30&color=58A6FF&vCenter=true&pause=1000&size=24" />
 </p>
 
 <p align="center">
