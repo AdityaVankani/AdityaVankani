@@ -1,80 +1,128 @@
-<h3 align="center">Hi 👋, I'm Aditya Vankani</h3>
-<h3 align="center">🚀 Passionate AI/ML Enthusiast & Software Dev</h3>
+<h1 align="center">Hi 👋, I'm Aditya Vankani</h1>
+
+<h3 align="center">
+AI Engineer & Full-Stack Developer building AI-powered products
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20;Full-Stack%20Problem%20Solver!;Tech%20is%20Interesting&center=true&width=500&height=30&color=58A6FF&vCenter=true&pause=1000&size=24" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Full-Stack%20Developer;LLMs%20%7C%20Computer%20Vision%20%7C%20MERN;Building%20Real-World%20Products&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=28"
+  />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coder at work" />
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+    width="100%"
+    alt="Coding"
+  />
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityavankani&label=Profile%20views&color=0e75b6&style=flat" alt="adityavankani" /> </p>
 
 ---
 
+## 🧠 About Me
 
+- Building with **LLMs, Computer Vision, MERN, Flask, FastAPI & Cloud**
+- Interested in **AI Systems, Automation, RAG Pipelines & Scalable Products**
+- Love turning ideas into deployable applications
+
+🌐 Portfolio → [Adi's Portfolio](https://adi-portfolio-omega.vercel.app)  
+🤖 AI Terminal → [A.D.I](https://adi-terminal.vercel.app)  
+📫 Reach me → **adivankani@gmail.com**
+
+---
+
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adityavankani/adityavankani/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,react,nodejs,express,mongodb,mysql,flask,fastapi,docker,tailwind,html,css,git,github,gcp,tensorflow,pytorch" />
 </p>
 
 ---
 
-### 🧠 About Me  
+## 🚀 Core Skills
+
+<p align="center">
+
+`AI/ML` • `NLP` • `Computer Vision` • `RAG Pipelines` • `MERN Stack`  
+`FastAPI` • `Flask` • `Cloud Deployment` • `REST APIs` • `Docker`
+
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AdityaVankani&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
   
--  I’m currently working on:  
-  &nbsp;&nbsp;• **Containerisation, LangGraph/LangChain**  
-  &nbsp;&nbsp;• **Flask/FastAPI backends for AI**, **MERN Stack**, **Cloud deployment**  
-
--  I’m looking to collaborate on:  
-  &nbsp;&nbsp;• **AI/ML projects**, especially:  
-    - NLP / RAG pipelines  
-    - Computer Vision  
-    - Automation tools  
-    - Open-source utilities  
-
-- My Portfolio  → [`{Adi's Portfolio}`](https://adi-portfolio-omega.vercel.app/)
-- 🤖 Want to know more? Ask my AI Terminal → [`{A.D.I}`](https://adi-terminal.vercel.app)
-
-- 📫 Reach me at: **adivankani@gmail.com**
-
----
-
-### 🔗 Connect With Me  
-<p align="left">
-<a href="https://x.com/adi_vankani" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/adityavankani" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.leetcode.com/adi_v_" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://codeforces.com/profile/adi_vankani" target="blank"><img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/adi_vankani" target="blank"><img src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://discordapp.com/users/1052991220458201159" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVankani&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
-
----
-
-### 🛠️ Languages and Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,flask,docker,react,nodejs,mongodb,mysql,tailwind,html,css,javascript,git,gcp,tensorflow,pytorch" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=adityavankani&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityavankani&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
-  </tr>
-</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavankani" alt="GitHub Streak" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=AdityaVankani&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
 
+## ➕ Contribution Graph
 
 <p align="center">
-  <b>"Code is cheap. Show me the Talk."</b> – Current World Situation 
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaVankani&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/AdityaVankani/AdityaVankani/output/github-contribution-grid-snake.svg"
+    alt="snake animation"
+  />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/adityavankani" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/adi_vankani" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/adi_v_" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://codeforces.com/profile/adi_vankani" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/adi_vankani" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>"Build things that matter."</i>
 </p>
