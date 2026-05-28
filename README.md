@@ -60,12 +60,6 @@ AI Engineer & Full-Stack Developer building AI-powered products
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaVankani&theme=tokyonight&utcOffset=5.5"
-    width="32%"
-  />
-</p>
 
 <p align="center">
   <img 
