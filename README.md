@@ -62,23 +62,6 @@ AI Engineer & Full-Stack Developer building AI-powered products
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaVankani&theme=tokyonight"
-    width="32%"
-  />
-  
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaVankani&theme=tokyonight"
-    width="32%"
-  />
-  
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaVankani&theme=tokyonight"
-    width="32%"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaVankani&theme=tokyonight&utcOffset=5.5"
     width="32%"
   />
@@ -87,17 +70,6 @@ AI Engineer & Full-Stack Developer building AI-powered products
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=AdityaVankani&theme=tokyonight&hide_border=true" 
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/AdityaVankani/AdityaVankani/output/github-contribution-grid-snake.svg"
-    alt="snake animation"
   />
 </p>
 
