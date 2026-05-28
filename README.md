@@ -20,19 +20,19 @@ AI Engineer & Full-Stack Developer building AI-powered products
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - Building with **LLMs, Computer Vision, MERN, Flask, FastAPI & Cloud**
 - Interested in **AI Systems, Automation, RAG Pipelines & Scalable Products**
 - Love turning ideas into deployable applications
 
-🌐 Portfolio → [Adi's Portfolio](https://adi-portfolio-omega.vercel.app)  
+🌐 Portfolio → [Adi's Portfolio](https://aditya-vankani.vercel.app)  
 🤖 AI Terminal → [A.D.I](https://adi-terminal.vercel.app)  
 📫 Reach me → **adivankani@gmail.com**
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,react,nodejs,express,mongodb,mysql,flask,fastapi,docker,tailwind,html,css,git,github,gcp,tensorflow,pytorch" />
@@ -40,7 +40,7 @@ AI Engineer & Full-Stack Developer building AI-powered products
 
 ---
 
-## 🚀 Core Skills
+##  Core Skills
 
 <p align="center">
 
@@ -51,34 +51,42 @@ AI Engineer & Full-Stack Developer building AI-powered products
 
 ---
 
-## 📈 GitHub Analytics
+## Contribution Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AdityaVankani&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaVankani&theme=tokyonight"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaVankani&theme=tokyonight"
+    width="32%"
   />
   
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVankani&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaVankani&theme=tokyonight"
+    width="32%"
+  />
+  
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaVankani&theme=tokyonight"
+    width="32%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdityaVankani&theme=tokyonight&utcOffset=5.5"
+    width="32%"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=AdityaVankani&theme=tokyonight&hide_border=true" 
-  />
-</p>
-
----
-
-## ➕ Contribution Graph
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaVankani&theme=tokyo-night&hide_border=true"
-    width="100%"
   />
 </p>
 
