@@ -35,7 +35,7 @@ AI Engineer & Full-Stack Developer
 ##  Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,react,nodejs,express,mongodb,mysql,flask,fastapi,docker,tailwind,html,css,git,github,gcp,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,nextjs,react,nodejs,express,mongodb,mysql,flask,fastapi,docker, kubernetes,tailwind,html,css,git,github,gcp,tensorflow,pytorch" />
 </p>
 
 ---
