@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Vankani</h1>
 
 <h3 align="center">
-AI Engineer & Full-Stack Developer building AI-powered products
+AI Engineer & Full-Stack Developer
 </h3>
 
 <p align="center">
@@ -23,7 +23,7 @@ AI Engineer & Full-Stack Developer building AI-powered products
 ##  About Me
 
 - Building with **LLMs, Computer Vision, MERN, Flask, FastAPI & Cloud**
-- Interested in **AI Systems, Automation, RAG Pipelines & Scalable Products**
+- Interested in **AI Systems, Automation, RAG Pipelines, Backend Development & Scalable Products**
 - Love turning ideas into deployable applications
 
 🌐 Portfolio → [Adi's Portfolio](https://aditya-vankani.vercel.app)  
@@ -45,7 +45,7 @@ AI Engineer & Full-Stack Developer building AI-powered products
 <p align="center">
 
 `AI/ML` • `NLP` • `Computer Vision` • `RAG Pipelines` • `MERN Stack`  
-`FastAPI` • `Flask` • `Cloud Deployment` • `REST APIs` • `Docker`
+`FastAPI` • `Flask` • `Cloud Deployment` • `REST APIs` • `Docker` • `Backend development`
 
 </p>
 
