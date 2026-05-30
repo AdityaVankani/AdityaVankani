@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Vankani</h1>
 
-<h3 align="center">
+<!-- <h3 align="center">
 AI Engineer & Full-Stack Developer
-</h3>
+</h3> -->
 
 <p align="center">
   <img 
