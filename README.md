@@ -6,7 +6,7 @@ AI Engineer & Full-Stack Developer
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer;Full-Stack%20Developer;LLMs%20%7C%20Computer%20Vision%20%7C%20MERN;Building%20Real-World%20Products&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=28"
+    src="https://readme-typing-svg.herokuapp.com/?lines=ML%20Engineer;Full-Stack%20Developer;LLMs%20%7C%20Computer%20Vision%20%7C%20MERN;Building%20Real-World%20Products&center=true&width=700&height=45&color=58A6FF&vCenter=true&size=28"
   />
 </p>
 
